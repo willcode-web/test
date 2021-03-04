@@ -1,0 +1,85 @@
+.topnlink {
+    text-decoration: none;
+    color:black;
+}
+.navlist {
+    position: relative;
+    margin-top: -5px;
+    margin-left: -5px;
+    margin-right: -5px;
+    list-style: none;
+    border: 1px solid gray;
+    height: 70px;
+}
+.nitem {
+    font-size: 20px;
+    padding: 10px;
+    font-family: 'Signika', sans-serif;
+    color: black;
+}
+.navlist .nitem{
+    display: inline;
+}
+.topnavb {
+    text-align: center;
+}
+.logo {
+    margin-top: -76px;
+    margin-left: 5%;
+}
+
+.signupbut {
+    position: relative;
+    margin-top: -55px;
+    margin-right: 50px;
+    float: right;
+}
+.hero {
+    width: 100%;
+    position: relative;
+    height: 450px;
+    top: 60px; 
+}
+#heroimg {
+    max-height: 430px;
+    float: right;
+    position: relative;
+    z-index: 0;
+    top: -60px;
+    margin-right: -190px;
+}
+.searctitl {
+    margin-top: -100px;
+}
+.herowrap {
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    display: flex;
+    flex-wrap: nowrap;
+    max-width: 1250px;
+    height: 370px;   
+}
+.signb { 
+    width: 134px;
+    height: 57px;
+}
+.allbut {
+    border-color: #976900;
+    border-radius: 5px;
+    font-family: 'Signika' , sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+    color: black;
+    background-image: linear-gradient(#F6D898, #EFC563);
+}
+.herotitle {
+    color: #0D65F8;
+    font-family: 'Signika' , sans-serif;
+    font-size: 65px;
+    margin-top: -400px;
+    margin-left: -240px;
+}
+.newsletter {
+    margin-top: 10000px; /* Temp */
+}
